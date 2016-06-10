@@ -1,0 +1,11 @@
+{
+  "name": "solution",
+  "version": "1.0.0",
+  "description": "1. In order to start the server, the syslogPort and restPort need to be set. '127.0.0.1' is choosed to be the default host address.\r  The command that used to start server:",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wenkai",
+  "license": "ISC"
+}
